@@ -1,0 +1,3 @@
+/home/albert/Documents/Cards/src/CMakeFiles/rebuild_cache.dir
+/home/albert/Documents/Cards/src/CMakeFiles/Cards.dir
+/home/albert/Documents/Cards/src/CMakeFiles/edit_cache.dir

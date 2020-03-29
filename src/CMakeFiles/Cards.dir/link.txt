@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Cards.dir/main.cpp.o CMakeFiles/Cards.dir/Deck.cpp.o CMakeFiles/Cards.dir/Card.cpp.o  -o Cards 

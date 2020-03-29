@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/albert/Documents/Cards/include/Card.h
+string
+-
+
+/home/albert/Documents/Cards/include/Deck.h
+iostream
+-
+ctime
+-
+Card.h
+/home/albert/Documents/Cards/include/Card.h
+
+/home/albert/Documents/Cards/main.cpp
+include/Deck.h
+/home/albert/Documents/Cards/include/Deck.h
+
+/home/albert/Documents/Cards/src/Card.cpp
+../include/Card.h
+/home/albert/Documents/Cards/include/Card.h
+
+/home/albert/Documents/Cards/src/Deck.cpp
+../include/Deck.h
+/home/albert/Documents/Cards/include/Deck.h
+../include/Card.h
+/home/albert/Documents/Cards/include/Card.h
+
